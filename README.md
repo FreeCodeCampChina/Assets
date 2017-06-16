@@ -13,5 +13,5 @@ freeCodeCamp China 设计素材、社区旗帜
 * 莆田、钦州
 * 厦门、福州、昆明、
 
-freeCodeCamp China 城市组织者招募，在这里你将结识freeCodeCamp 中文社区组织团队及全国其他城市小伙伴们...
+freeCodeCamp China 城市组织者招募，在这里你将结识freeCodeCamp 中文社区组织团队及全国其它城市小伙伴们...
 * 入伙：https://gdgdocs.org/r/L77Tx9
