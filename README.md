@@ -19,4 +19,4 @@
 ## 欢迎小伙伴们提交自己的设计！
 
 ## freeCodeCamp China 城市组织者招募，在这里你将结识freeCodeCamp中文社区组织团队及全国其它城市小伙伴们
-* 入伙：https://gdgdocs.org/r/L77Tx9
+* 在这里 https://gdgdocs.org/r/L77Tx9 填写你的申请 ^_^
