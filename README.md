@@ -1,5 +1,4 @@
 # Welcome to freeCodeCamp China's Asset Repository
-freeCodeCamp China 设计素材
 
 ## UG_logos: freeCodeCamp China 城市社区旗子
 城市组织者可以下载旗子，在活动文案中使用，或者印刷后在组织线下 Coffee and Code 合影使用。建议印刷尺寸100cm * 60cm
@@ -14,9 +13,8 @@ freeCodeCamp China 设计素材
 * 莆田、钦州
 * 厦门、福州、昆明
 
-## Asset
+## asset
 * 旗子.ai文件
-* freeCodeCamp公号二维码
 
 ## 欢迎小伙伴们提交自己的设计！
 
